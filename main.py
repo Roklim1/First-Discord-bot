@@ -3,7 +3,7 @@ ansers = ["Привет", "Здравствуй", "О,какие люди!", "П
 import discord
 from discord.utils import get
 import random
-TOKEN = 'ODY4MDYwMzkyNjkyMjYwODg1.YPqKPQ.fMRCRLzgbkuqgRgH7B0IdvCkOUg'
+TOKEN = ''
 intents = discord.Intents.default()
 intents.members = True
 client = discord.Client(intents=intents)
